@@ -1,11 +1,11 @@
-# evawikberg.github.io
+# https://evawikberg.com
 
 Eva C. Wikberg
 
-Teaching Assistant Professor
+Assistant Professor
 
-Department of Biology
+Department of Anthropology
 
-University of North Carolina at Chapel Hill
+University of Texas at San Antonio
 
-https://evawikberg.github.io/
+https://www.evawikberg.com/
