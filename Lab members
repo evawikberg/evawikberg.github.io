@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+  
+  <meta name="description" content="Your description goes here" />
+
+  
+  <meta name="keywords" content="your,keywords,goes,here" />
+
+  
+  <meta name="author" content="Your Name" />
+
+  
+  <link rel="stylesheet" type="text/css" href="variant-duo.css" title="Variant Duo" media="screen,projection" />
+  <title>Eva C. Wikberg</title>
+
+  
+</head><body>
+<div id="wrap">
+<h1><a href="index.html">Eva C. Wikberg</a></h1>
+<p class="slogan">Assistant Professor<br />
+Department of Anthropology<br />
+University of Texas at San Antonio</p>
+<div id="menu">
+<p class="menulinks"> <strong class="hide">Main
+menu:</strong>
+<a class="menulink" href="index.html">Home</a>
+<a class="menulink" href="Research.html">Research
+<span class="hide"> | </span>
+</a><a class="menulink" href="Publications.html">Publications</a>
+<span class="hide"> | </span>
+<a class="menulink" href="CV.html">CV</a>
+<span class="hide">| </span>
+<a class="menulink" href="Teaching.html">Teaching</a>
+<span class="hide">| </span>
+<a class="menulink active" href="Students.html">Students</a>
+<span class="hide">| </span>
+<a class="menulink" href="Contact.html">Contact</a>
+</p>
+</div>
+<img style="font-weight: bold;" class="feature" src="Students.jpg" alt="sample image" />
+<div id="content">
+<h2>Current graduate students at UTSA</h2>
+  
+  
+<p>Emily Glotfelty<br />
+Topic: Behavioral flexibility of black-and-white colobus monkeys
+<p>Sara Lucci<br />
+Topic: Effects of early life adversity in black-and-white colobus monkeys
+<p>Sydney Self<br />
+Topic: Dispersal patterns in black-and-white colobus monkeys
+<p>Shelby Samartino<br />
+Topic: Vaginal microbiome of bonobos 
+<p>Bright Yeboah<br />
+Topic: Ethnoprimatology and conservation at BFMS
+</p>
+
+<h2>Former graduate students</h2>
+<p>
+Johanna Hedlund</b><br />
+MSc in Biology at Södertörns University (2009)<br />
+Thesis title: Living with males: benefits and costs to females of
+resident males in <i>Colobus vellerosus</i>
+ </p>
+<p>
+Emily Glotfelty</b><br />
+MA in Anthroplogy at UTSA (2020)<br />
+Thesis title: Variation in food availability and behavior in Colobus vellerosus with increasing population size  
+</p>
+<br />
+  <h2>Undergraduate students</h2>
+<p>Sofia Gonzalez<br />
+   <p>Brittany Martinez<br />
+<p>Kenza Ngantcha-Ouandja<br />
+  <p>Cynthia Rodriguez<br />
+    <p>Asiana White<br />
+</p>
+  
+<p>
+</p>
+<p class="centered"><a href="http://www.utsa.edu/">University of
+Texas at San Antonio</a>
+</p>
+</div>
+<p class="footer"><b>Copyright © 2012 <a href="index.html">Eva
+C. Wikberg</a>
+<br />
+Template design by <a href="http://andreasviklund.com/">Andreas
+Viklund</a>
+<br />
+</b></p>
+</div>
+
+</body></html>
